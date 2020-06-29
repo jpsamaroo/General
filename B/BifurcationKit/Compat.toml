@@ -1,0 +1,4 @@
+[0]
+Documenter = "0.24.3-0.24"
+KrylovKit = "0.0.0-0.4.2"
+RecipesBase = "1"
